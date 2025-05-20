@@ -93,11 +93,6 @@
             "displayName": "test build",
             "configurePreset": "Test",
             "configuration": "Test"
-        },
-        {
-            "name": "eee",
-            "description": "",
-            "displayName": ""
         }
     ],
     "testPresets": [
